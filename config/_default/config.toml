@@ -1,0 +1,6 @@
+baseurl = "https://example.blog.laromierre.com"
+languageCode = "en-us"
+title = "laromierre - mock"
+defaultContentLanguage = "en"
+theme="stack-examples"
+disableKinds = ['sitemap', 'rss']
