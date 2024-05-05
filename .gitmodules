@@ -1,4 +1,3 @@
 [submodule "themes/stack-examples"]
-    path = themes/stack-examples
-    url = https://github.com/letrome/stack-examples.git
-
+	path = themes/stack-examples
+	url = git@github.com:letrome/stack-example-pwa-ios.git
