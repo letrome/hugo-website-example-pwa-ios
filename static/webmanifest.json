@@ -1,0 +1,93 @@
+{
+  "lang": "en",
+  "short_name": "LaromierreMock",
+  "name": "laromierre - mock",
+  "description": "A mock website",
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#929295",
+  "theme_color": "#F5F5FA",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icons/pwa-64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/icons/pwa-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/pwa-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/icons/pwa-512.png",
+      "sizes": "196x196",
+
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Birds",
+      "description": "The page containing the posts about birds",
+      "url": "/categories/birds/",
+      "icons": [
+        {
+          "src": "/icons/birds/pwa-64.png",
+          "type": "image/png",
+          "sizes": "64x64"
+        },
+        {
+          "src": "/icons/birds/pwa-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/icons/birds/pwa-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        },
+        {
+          "src": "/icons/birds/pwa-512.png",
+          "type": "image/png",
+          "sizes": "512x512",
+          "purpose": "maskable"
+        }
+      ]
+    },
+    {
+      "name": "Mammals posts",
+      "description": "The page containing the posts abouts mammals",
+      "url": "/categories/mammals/",
+      "icons": [
+        {
+          "src": "/icons/mammals/pwa-64.png",
+          "type": "image/png",
+          "sizes": "64x64"
+        },
+        {
+          "src": "/icons/mammals/pwa-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/icons/mammals/pwa-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        },
+        {
+          "src": "/icons/mammals/pwa-512.png",
+          "type": "image/png",
+          "sizes": "512x512",
+          "purpose": "maskable"
+        }
+      ]
+    }
+  ]
+}
